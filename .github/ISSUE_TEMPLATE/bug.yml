@@ -1,0 +1,22 @@
+name: Laporan bug
+description: Laporkan masalah pada KILAS
+title: '[Bug] '
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Versi KILAS dan Windows
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Langkah untuk mengulangi masalah
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Hasil yang terjadi dan yang diharapkan
+    validations:
+      required: true
