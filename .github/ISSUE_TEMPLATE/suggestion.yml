@@ -1,0 +1,15 @@
+name: Saran fitur
+description: Bagikan ide untuk KILAS
+title: '[Saran] '
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Saran
+      description: Jelaskan ide dan manfaatnya.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versi KILAS
