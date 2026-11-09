@@ -1,6 +1,8 @@
 {
-  "enabled": false,
-  "version": "0.4.0",
-  "url": "https://github.com/azidhmaulana/kilas-releases/releases",
-  "notes": "Update channel is being prepared. No public installer is available yet."
+  "enabled": true,
+  "version": "0.4.2",
+  "url": "https://github.com/azidhmaulana/kilas-releases/releases/tag/v0.4.2-beta.1",
+  "installer_url": "https://github.com/azidhmaulana/kilas-releases/releases/download/v0.4.2-beta.1/Kilas-0.4.2-beta-x64.msi",
+  "sha256": "89592420a984dfd3d7148bcae42906ee4cb2890ffaaceefa5bf88f22fea063b0",
+  "notes": "Pembaruan KILAS tersedia. Lihat halaman rilis untuk daftar perubahan."
 }
