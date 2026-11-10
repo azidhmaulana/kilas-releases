@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "version": "0.4.2",
-  "url": "https://github.com/azidhmaulana/kilas-releases/releases/tag/v0.4.2-beta.1",
-  "installer_url": "https://github.com/azidhmaulana/kilas-releases/releases/download/v0.4.2-beta.1/Kilas-0.4.2-beta-x64.msi",
-  "sha256": "89592420a984dfd3d7148bcae42906ee4cb2890ffaaceefa5bf88f22fea063b0",
+  "url": "https://github.com/azidhmaulana/kilas-releases/releases/tag/v0.4.2-beta.2",
+  "installer_url": "https://github.com/azidhmaulana/kilas-releases/releases/download/v0.4.2-beta.2/Kilas-0.4.2-beta-x64.msi",
+  "sha256": "309ba4b9c0f6163b6c9d7e450e60653fb5fc409e88d48a817aff890ea80fe3ed",
   "notes": "Pembaruan KILAS tersedia. Lihat halaman rilis untuk daftar perubahan."
 }
